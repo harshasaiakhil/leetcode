@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/harshasaiakhil/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/harshasaiakhil/leetcode/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/harshasaiakhil/leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
