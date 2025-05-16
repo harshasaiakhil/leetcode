@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/harshasaiakhil/leetcode/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshasaiakhil/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1677-matrix-diagonal-sum](https://github.com/harshasaiakhil/leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/harshasaiakhil/leetcode/tree/master/0326-power-of-three) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/harshasaiakhil/leetcode/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
