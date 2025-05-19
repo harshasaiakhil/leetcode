@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/harshasaiakhil/leetcode/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshasaiakhil/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0566-reshape-the-matrix](https://github.com/harshasaiakhil/leetcode/tree/master/0566-reshape-the-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/harshasaiakhil/leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Hash Table
 |  |
@@ -34,5 +35,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/harshasaiakhil/leetcode/tree/master/0566-reshape-the-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/harshasaiakhil/leetcode/tree/master/1677-matrix-diagonal-sum) |
+## Simulation
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/harshasaiakhil/leetcode/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
