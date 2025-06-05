@@ -47,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/harshasaiakhil/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/harshasaiakhil/leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/harshasaiakhil/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
